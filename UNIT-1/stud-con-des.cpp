@@ -37,3 +37,13 @@ int main() {
    
     return 0;
 }
+/*Ouput:
+constructor is called! Student object is created 
+
+--- Student Details ---
+Roll No: 83
+Name: Srushti
+Total Marks: 91.38
+Desctuctor is called, object is destroyed! 
+
+*/

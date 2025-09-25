@@ -27,3 +27,10 @@ int main() {
     // s1.rollNo = 999; // ❌ Not allowed (information hiding)
     return 0;
 }
+
+/*Output:
+
+Roll No: 101
+Marks: 89.5
+*/
+

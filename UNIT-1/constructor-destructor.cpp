@@ -26,3 +26,12 @@ int main() {
    
     return 0;
 }
+
+/*Output
+
+constructor is called, object is created!
+Hello, Welcome to c++ 
+Desctuctor is called, object is destroyed!
+
+
+*/
