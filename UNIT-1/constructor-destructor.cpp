@@ -1,3 +1,5 @@
+//Write a program to explain concept of constructor and destructor
+
 #include <iostream>
 using namespace std;
 
